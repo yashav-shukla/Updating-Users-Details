@@ -2,6 +2,10 @@
 
 A simple web application for managing user details with CRUD operations. Users can add, view, edit, and delete user information through an intuitive form interface.
 
+<p align="center">
+  <a href="https://updateuserdetails.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Preview-updateuserdetails.netlify.app-red?style=for-the-badge" /></a>
+</p>
+
 ## Features
 
 - ✅ **Add Users**: Submit user details (username, email, phone) via form
@@ -110,9 +114,6 @@ Fetching Users' Details/
 - [ ] Implement proper styling with CSS
 - [ ] Add confirmation dialogs for delete operations
 - [ ] Support for updating users via API
-
-
-# LIVE URL - [ updateuserdetails.netlify.app ] 
 
 ## License
 
